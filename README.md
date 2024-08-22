@@ -56,16 +56,16 @@
   <a href="https://fb.com/muhammadfarhan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/your_instagram" target="_blank">
+  <a href="" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/your_leetcode" target="_blank">
+  <a href="https://leetcode.com/u/Muhammad_Farhan_67/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://lablab.ai/u/your_lablabai" target="_blank">
+  <a href="https://lablab.ai/u/@Farhan67" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/lablab.svg" alt="LabLab.AI" height="30" width="40" />
   </a>
-  <a href="https://huggingface.co/your_huggingface" target="_blank">
+  <a href="https://huggingface.co/MuhammadFarhan67" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="Hugging Face" height="30" width="40" />
   </a>
 </p>
