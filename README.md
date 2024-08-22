@@ -13,19 +13,19 @@
 - 🌟 I have participated in **8 international hackathons**, winning two of them.
 - 🧑‍💻 Proficient in **Frontend Web Development** using **Streamlit**, **Python**, **HTML/CSS**, **JS**, and **React**.
 - 📊 Experience in **Data Analysis** using **Pandas**, **Matplotlib**, **Numpy**, and **R**.
-- 🤖 Developed **6 AI Projects**:
-  - AI X Ray Analysis To detect Broken Bones
-  - AI Model to detect Brain Tumor
-  - Personalized Meal Planner for Diabetic Patients
-  - A simple text-to-text bot,
-  - A real-time voice-to-voice bot,
-  - An AI marketing agent.
 - 🍽️ Built a **Personalized Meal Planner** for diabetic patients as a personal project.
 - 💻 Solved **62 Leetcode questions**.
 - 🛠 Worked on **three team projects**.
 - 🧠 Familiar with AI models and APIs like **LLaMA**, **Whisper**, **GTTS**, **Stable Diffusion**, **Flux**, and **Gemini**.
 - 💬 Ask me about **HTML5, CSS3, JS, and Python**.
-- 📫 Reach me at **farhanrafique6767@gmail.com**.
+- 🤖 Developed **6 AI Projects**:
+  - AI X Ray Analysis To detect Broken Bones
+  - AI Model to detect Brain Tumor
+  - Personalized Meal Planner for Diabetic Patients
+  - A simple text-to-text bot
+  - A real-time voice-to-voice bot
+  - An AI marketing agent.
+- 📫 Reach me at **muhammadfarhanquantam@gmail.com**.
 
 ---
 
@@ -62,13 +62,6 @@
   <a href="https://leetcode.com/u/Muhammad_Farhan_67/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://lablab.ai/u/@Farhan67" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/lablab.svg" alt="LabLab.AI" height="30" width="40" />
-  </a>
-  <a href="https://huggingface.co/MuhammadFarhan67" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="Hugging Face" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
