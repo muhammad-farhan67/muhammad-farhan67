@@ -1,17 +1,6 @@
----<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=1000&color=18F73F&center=true&vCenter=true&width=435&lines=Hi, I Am Muhammad Farhan;Aspiring+AI+Engineer;Machine+Learning+Enthusiast; alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=1000&color=18F73F&center=true&vCenter=true&width=435&lines=Hi+I+am+Muhammad+Farhan;Aspiring+AI+Engineer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
-
-<div align="center">
-  
-
-  <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3bC0xMC01ek0xMCA4LjkybDIgMVYxNWgtMnYtNi4wOHpNMTQgMTVoLTJ2LTUuMDhsMi0xVjE1eiIvPjwvc3ZnPg==" />
-
-
-
-</div>
-
----
 
 <p align="center">
   <i>Thanks for dropping by, hope you find some of my work interesting.</i>
