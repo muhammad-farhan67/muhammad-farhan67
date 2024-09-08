@@ -1,7 +1,15 @@
 # 💫 About Me:
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner image" /><br><br><h1 align="center">Hi 👋, I'm Muhammad Farhan</h1><br><h3 align="center">An Aspiring AI Engineer from Pakistan</h3><br><br><p align="left">   </br> 
-### Participated in 12 international hackathons, winning two of them.<br>
- ### 📫 Connect with me:
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner image" /><br><br><h1 align="center">Hi 👋, I'm Muhammad Farhan</h1><br><h3 align="center"> Aspiring AI Engineer from Pakistan</h3><br><br><p align="left">   </br> 
+🎓 **Studying Bachelor's in Computer Science at the University of Agriculture Faisalabad.**
+🏆 **HEC scholarship holder for the entire Bachelor's degree program.**
+🌍 **Actively participating in international events and hackathons (International participation count: 12+).**
+🏅 **Won two international hackathons: one from LabLab.ai and another from the Geekle.US platform.**
+💻 **Learning Data Structures and Algorithms (Solved 60+ LeetCode problems and continuing).**
+⌨️ **Typing speed of 60 WPM, working towards achieving 100 WPM.**
+🤖 **Aspiring AI engineer (currently familiar with generative AI).**
+🎧 **Intrested in Wrting articles on linkedIn , Medium and reading Books.** 
+
+ # 📫 Connect with me:
  <div align="center">
     <a href="https://www.linkedin.com/in/muhammad-farhan-775641312" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Farhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:farhanrafique6767@gmail.com"><img src="https://img.shields.io/badge/-your.email@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -33,12 +41,7 @@
    </a>  
 </p>
 <br>
-<div id="header" align="center">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-farhan67" alt="muhammad-farhan67" /></a> </p>
-  
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-  <img src="https://komarev.com/ghpvc/?username=muhammad-farhan67&style=for-the-badge&color=orange" alt=""/>
-</div>
+
 <h2 align="center">💻 Check Out My Repos ⬇️ </h2>
 
 <!-- <div align="center">
