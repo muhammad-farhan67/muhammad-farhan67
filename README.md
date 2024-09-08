@@ -1,21 +1,13 @@
-<h1 align="center">👨‍💻 Muhammad Farhan</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=1000&color=18F73F&center=true&vCenter=true&width=435&lines=🧠+AI+Engineer;🚀+Machine+Learning+Enthusiast;💻+Code+Alchemist;🔬+Data+Science+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=1000&color=18F73F&center=true&vCenter=true&width=435&lines=Hi, I Am Muhammad Farhan;Aspiring+AI+Engineer;Machine+Learning+Enthusiast; alt="Typing SVG" />
 </p>
 
 <div align="center">
   
-  🌟 **Transforming complex data into intelligent solutions** 🌟
-  
-  🤖 `AI` | 📊 `Machine Learning` | 🧬 `Deep Learning` | 🔍 `Data Science`
-
-  🗣 Python • TensorFlow • PyTorch • SQL
 
   <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3bC0xMC01ek0xMCA4LjkybDIgMVYxNWgtMnYtNi4wOHpNMTQgMTVoLTJ2LTUuMDhsMi0xVjE1eiIvPjwvc3ZnPg==" />
 
-  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/YourGitHubUsername)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YourLinkedInUsername)
+
 
 </div>
 
