@@ -1,27 +1,33 @@
-```python
-# 🧠 AI Engineer | 🚀 Machine Learning Enthusiast | 💻 Code Alchemist
+<h1 align="center">👨‍💻 Muhammad Farhan</h1>
 
-class AIEngineer:
-    def __init__(self):
-        self.name = "Muhammad Farhan"
-        self.role = "AI Engineer"
-        self.language_spoken = ["Python", "TensorFlow", "PyTorch", "SQL"]
-        self.challenge = "Transforming complex data into intelligent solutions"
-    
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-me = AIEngineer()
-me.say_hi()
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=1000&color=18F73F&center=true&vCenter=true&width=435&lines=🧠+AI+Engineer;🚀+Machine+Learning+Enthusiast;💻+Code+Alchemist;🔬+Data+Science+Expert" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=18F73F&background=30303000&width=435&lines=AI+Engineer;Machine+Learning+Expert;Data+Science+Enthusiast" alt="Typing SVG" />
+  
+  🌟 **Transforming complex data into intelligent solutions** 🌟
+  
+  🤖 `AI` | 📊 `Machine Learning` | 🧬 `Deep Learning` | 🔍 `Data Science`
+
+  🗣 Python • TensorFlow • PyTorch • SQL
+
+  <img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3bC0xMC01ek0xMCA4LjkybDIgMVYxNWgtMnYtNi4wOHpNMTQgMTVoLTJ2LTUuMDhsMi0xVjE1eiIvPjwvc3ZnPg==" />
+
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/YourGitHubUsername)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YourLinkedInUsername)
+
 </div>
 
 ---
+
+<p align="center">
+  <i>Thanks for dropping by, hope you find some of my work interesting.</i>
+</p>
+
+---
 #  About Me:
-<img src="" alt="banner image" /><br><br><h1 align="center">Hi 👋, I'm Muhammad Farhan</h1><br>
+
  - Studying Bachelor's in Computer Science at the University of Agriculture Faisalabad. <br/><br/>
  - HEC scholarship holder for the entire Bachelor's degree program. <br/><br/>
  - Actively participating in international events and hackathons (International participation count: 12+). <br/><br/>
