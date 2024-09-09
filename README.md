@@ -19,15 +19,16 @@
  - Interested in Writing articles on LinkedIn , Medium and reading Books.  <br/><br/>
 
  #  Connect with me:
- <br/>
- <div align="center">
-    <a href="https://www.linkedin.com/in/muhammad-farhan-775641312" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Farhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:farhanrafique6767@gmail.com"><img src="https://img.shields.io/badge/-farhanrafique6767@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/Muhammad_Farhan_67/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Farhan-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-    <a href="https://lablab.ai/u/@Farhan67" target="_blank"><img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
-    <a href="https://medium.com/@Muhammad-Farhan" target="_blank"><img src="https://img.shields.io/badge/-Medium%20Profile-000000?style=flat&logo=Medium&logoColor=white"/></a>
-     <a href="https://www.instagram.com/muhammadfarhan06?igsh=emY4em9xZWF2YXlo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</div><br/><br/>
+<br/>
+<div align="center">
+    <a href="https://www.linkedin.com/in/muhammad-farhan-775641312" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Muhammad%20Farhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:farhanrafique6767@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-farhanrafique6767@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/Muhammad_Farhan_67/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Muhammad%20Farhan-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://lablab.ai/u/@Farhan67" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+    <a href="https://medium.com/@Muhammad-Farhan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Medium%20Profile-000000?style=flat&logo=Medium&logoColor=white"/></a>
+    <a href="https://www.instagram.com/muhammadfarhan06?igsh=emY4em9xZWF2YXlo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</div>
+<br/><br/>
 
 
 #  Tech Stack:
