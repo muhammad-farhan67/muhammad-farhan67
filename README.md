@@ -16,7 +16,7 @@
  - Learning Data Structures and Algorithms (Solved 60+ LeetCode problems and continuing). <br/><br/>
  - Typing speed of 60 WPM, working towards achieving 100 WPM. <br/><br/>
  - Aspiring AI engineer (currently familiar with generative AI). <br/><br/>
- - Intrested in Writing articles on LinkedIn , Medium and reading Books.**  <br/><br/>
+ - Interested in Writing articles on LinkedIn , Medium and reading Books.  <br/><br/>
 
  #  Connect with me:
  <br/>
