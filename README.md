@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=1000&color=18F73F&center=true&vCenter=true&width=435&lines=Hi+I+am+Muhammad+Farhan;Aspiring+AI+Engineer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=1000&color=18F73F&center=true&vCenter=true&width=435&lines=Hi+There!;This+is+Muhammad+Farhan;Aspiring+AI+Engineer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,12 +9,12 @@
 ---
 #  About Me:
 
- - Studying Bachelor's in Computer Science at the University of Agriculture Faisalabad. <br/><br/>
- - Actively participating in international events and hackathons (International participation count: 12+). <br/><br/>
+- Aspiring AI engineer (currently familiar with generative AI). <br/><br/>
+- Actively participating in international events and hackathons (International participation count: 12+). <br/><br/>
  - Won two international hackathons: one from LabLab.ai and another from the Geekle.US platform. <br/><br/>
  - Learning Data Structures and Algorithms (Solved 60+ LeetCode problems and continuing). <br/><br/>
  - Typing speed of 60 WPM, working towards achieving 100 WPM. <br/><br/>
- - Aspiring AI engineer (currently familiar with generative AI). <br/><br/>
+ 
  - Interested in Writing articles on LinkedIn , Medium and reading Books.  <br/><br/>
 
  #  Connect with me:
