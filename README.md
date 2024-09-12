@@ -10,7 +10,6 @@
 #  About Me:
 
  - Studying Bachelor's in Computer Science at the University of Agriculture Faisalabad. <br/><br/>
- - HEC scholarship holder for the entire Bachelor's degree program. <br/><br/>
  - Actively participating in international events and hackathons (International participation count: 12+). <br/><br/>
  - Won two international hackathons: one from LabLab.ai and another from the Geekle.US platform. <br/><br/>
  - Learning Data Structures and Algorithms (Solved 60+ LeetCode problems and continuing). <br/><br/>
