@@ -9,11 +9,11 @@
 ---
 #  About Me:
 
-- Aspiring AI engineer (currently familiar with generative AI). <br/><br/>
+- Aspiring AI engineer (currently familiar with GEN AI). <br/><br/>
 - Actively participating in international events and hackathons (International participation count: 12+). <br/><br/>
- - Won two international hackathons: one from LabLab.ai and another from the Geekle.us platform. <br/><br/>
- - Learning Data Structures and Algorithms (Solved 60+ LeetCode problems and continuing). <br/><br/>
- - Typing speed of 60 WPM, working towards achieving 100 WPM. <br/><br/>
+ - Won three international hackathons: two from LabLab.ai and another from the Geekle.us. <br/><br/>
+ - Learning Data Structures and Algorithms (Solved 70+ LeetCode problems and continuing). <br/><br/>
+ - Typing speed of 70 WPM, working towards achieving 100 WPM. <br/><br/>
  
  - Interested in Writing articles on LinkedIn , Medium and reading Books.  <br/><br/>
 
