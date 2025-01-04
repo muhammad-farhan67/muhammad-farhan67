@@ -12,7 +12,7 @@
 - AI engineer <br/><br/>
 - Actively participating in international events and hackathons (International participation count: 20+). <br/><br/>
  - Won three international hackathons<br/><br/>
- - Learning Data Structures and Algorithms (Solved 80+ LeetCode problems and continuing). <br/><br/>
+ 
  - Typing speed of 70 WPM, working towards achieving 100 WPM. <br/><br/>
  
  - Interested in teaching, writing articles on LinkedIn and reading Books.  <br/><br/>
