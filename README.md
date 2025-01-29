@@ -7,15 +7,6 @@
 </p>
 
 ---
-#  About Me:
-
-- AI Engineer <br/><br/>
-- Actively participating in global events and hackathons (participation count: 20+). <br/><br/>
- - Won three hackathons.<br/><br/>
- 
- - Typing speed of 70 WPM, working towards achieving 100 WPM. <br/><br/>
- 
- - Interested in teaching, writing articles on LinkedIn and reading Books.  <br/><br/>
 
  #  Connect with me:
 <br/>
