@@ -9,7 +9,7 @@
 ---
 #  About Me:
 
-- AI engineer <br/><br/>
+- AI Engineer <br/><br/>
 - Actively participating in global events and hackathons (participation count: 20+). <br/><br/>
  - Won three hackathons.<br/><br/>
  
