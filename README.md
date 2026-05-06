@@ -23,10 +23,11 @@
 # Github Stats:
 <p align="center">
   <a href="https://github.com/muhammad-farhan67">
-    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammad-farhan67&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhammad-farhan67&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=muhammad-farhan67&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-farhan67&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/muhammad-farhan67">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-farhan67&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
