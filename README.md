@@ -15,7 +15,7 @@
     <a target="_blank" href="mailto:farhanrafique6767@gmail.com"><img src="https://img.shields.io/badge/-farhanrafique6767@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/Muhammad_Farhan_67/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Farhan-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
     <a href="https://lablab.ai/u/@Farhan67" target="_blank"><img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
-     <a href="https://www.instagram.com/muhammadfarhan06?igsh=emY4em9xZWF2YXlo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+     <a href="https://www.instagram.com/?igsh=emY4em9xZWF2YXlo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </div><br/><br/>
 
 #  Tech Stack:
