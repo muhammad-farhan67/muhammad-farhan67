@@ -1,58 +1,34 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Muhammad+Farhan;AI+Engineer+%7C+Data+Science+Enthusiast;Building+Impactful+AI+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Hi+There!;This+is+Muhammad+Farhan;AI+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>Passionate about AI, Data Science, and building impactful solutions 🚀</i>
+  <i>Thanks for dropping by, hope you find some of my work interesting.</i>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+ #  Connect with me:
+<br/>
+ <div align="center">
+    <a href="https://www.linkedin.com/in/muhammad-farhan-775641312" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Farhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:farhanrafique6767@gmail.com"><img src="https://img.shields.io/badge/-farhanrafique6767@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    
+</div><br/><br/>
+
+#  Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br/><br/>
+# Github Stats:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-farhan-775641312">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Farhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/muhammad-farhan67">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-farhan67&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
   </a>
-  <a href="mailto:farhanrafique6767@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
+<p align="center">
+  <a href="https://github.com/muhammad-farhan67">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-farhan67&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%"/>
   </a>
 </p>
+<h2 align="center">💻 Check Out My Repos ⬇️</h2>
 
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,html,css,react,nextjs,tailwind,redux,fastapi,flask,mongodb,mysql,aws,azure,gcp,git,github,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammad-farhan67&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-farhan67&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammad-farhan67&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Highlight Projects
-
-* 🤖 AI Voice-to-Voice Chatbot
-* 📄 ATS-Friendly CV Generator
-* 🧠 AI Health Coach
-* 🌾 Agriculture + NASA Data Projects
-
----
-
-<h3 align="center">💻 Explore My Repositories ⬇️</h3>
